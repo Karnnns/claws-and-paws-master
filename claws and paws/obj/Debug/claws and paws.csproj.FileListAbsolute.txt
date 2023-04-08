@@ -1,0 +1,77 @@
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\dbPetShop.mdf
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\dbPetShop_log.ldf
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\claws and paws.exe.config
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\claws and paws.exe
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\claws and paws.pdb
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\Guna.UI2.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\log4net.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\log4net.xml
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws and paws.csproj.AssemblyReference.cache
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws and paws.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.CashCustomer.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.CashForm.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.CashProduct.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.CustomerForm.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.CustomerModule.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.Dashboard.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.Login.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.Main.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.ProductForm.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.ProductModule.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.Properties.Resources.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.SplashScreen.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.TransactionsForm.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.UserForm.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws_and_paws.UserModule.resources
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws and paws.csproj.GenerateResource.cache
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws and paws.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws and paws.csproj.CopyComplete
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws and paws.exe
+C:\Users\Karan\Downloads\claws-and-paws-master\claws-and-paws-master\claws and paws\obj\Debug\claws and paws.pdb
